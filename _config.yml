@@ -1,0 +1,19 @@
+title: "Neo Cubz Aerospace & Engineering"
+description: "Aviation Consulting • LAME Contracting • Airworthiness • Safety & Quality • Targeted Training"
+theme: jekyll-theme-cayman
+
+nav:
+  - name: "Home"
+    link: "/"
+  - name: "About"
+    link: "/about"
+  - name: "Services"
+    link: "/services"
+  - name: "Capability Statement"
+    link: "/capability"
+  - name: "Contact"
+    link: "/contact"
+
+markdown: kramdown
+kramdown:
+  input: GFM
