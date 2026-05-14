@@ -51,5 +51,5 @@ Based in Palmerston North, supporting:
 ---
 
 ## Contact
-Email: **[your email]**  
-LinkedIn: **[your profile]**  
+Email: imran.shaikh.aviation@proton.me  
+LinkedIn: www.linkedin.com/in/imran-shaikh-0b5217b2
