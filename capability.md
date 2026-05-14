@@ -51,5 +51,6 @@ Based in Palmerston North, supporting:
 ---
 
 ## Contact
-Email: imran.shaikh.aviation@proton.me  
+Email: imran.shaikh.aviation@proton.me 
+Phone: 0210592286
 LinkedIn: www.linkedin.com/in/imran-shaikh-0b5217b2
